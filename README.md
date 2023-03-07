@@ -10,10 +10,8 @@ Sample of Risk and Return Distribution: ![Alt Text](https://github.com/Harrypatr
 
 To estimate the expected returns, standard deviations, and correlations of the assets, we can use historical data. However, historical data might not always be a reliable predictor of future returns, so we can also use Monte Carlo simulation to generate a range of possible outcomes for the assets.
 
-Here's an outline of how we can use Python to implement the Efficient Frontier using Markowitz and Monte Carlo simulation:
-
-Collect historical data for the assets of interest. We can use the pandas
-
+### Implication
+By using the Efficient Frontier, we can select a portfolio that offers the highest expected return for a given level of risk or the lowest risk for a given level of expected return.
 
 
 
