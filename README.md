@@ -41,4 +41,3 @@ Electric vehicle, as one of the low carbon footprints, has transformed a wide ra
   - Write the reports, please refer to previous articles that I published with other students. It is encouraged to cite a sort of articles.
   - Drop me an email if you have any questions regarding the project assignment
 
-
